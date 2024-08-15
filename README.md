@@ -1,2 +1,2 @@
-# MY-PROJECT
+# DEMO GITHUB
 Learning to use github
